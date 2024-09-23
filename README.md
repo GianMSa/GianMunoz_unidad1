@@ -1,1 +1,3 @@
 # conflicto resuelto!!
+
+# navegación lista
